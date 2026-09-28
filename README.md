@@ -69,7 +69,7 @@ A tabela amigos possui o campo usuario_id, responsável pelo relacionamento com 
 
 ## Autor
 
-SEU NOME
+Gabi
 
 ## Disciplina
 
